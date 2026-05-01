@@ -55,7 +55,7 @@ Performed advanced SQL queries including:
 - Business KPI calculations
 
 👉 Full SQL queries available here:  
-`/sql/queries.sql`
+`/sql/PIZZA SALES SQL QUERIES.docx`
 
 ---
 
